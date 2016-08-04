@@ -1,0 +1,28 @@
+_repo: The-Task-and-Other-Poems_3698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cowper, William
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '1270'
+    url: http://www.gutenberg.org/2009/agents/1270
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper
+description: The task, in six books -- Epistle to Joseph Hill, esq. -- Tirocinium,
+  or, A review of schools.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Task -- The Diverting History of John Gilpin -- An Epistle to
+  Joseph Hill, Esq. -- To Mary.
+title: The Task, and Other Poems
+url: http://www.gutenberg.org/ebooks/3698
